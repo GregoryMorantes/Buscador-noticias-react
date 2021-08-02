@@ -1,0 +1,19 @@
+.titulo {
+    font-size: 35px;
+}
+
+.encabezado {
+    color: wheat !important;
+    display: block !important;
+    width: 100% !important;
+    padding: 10px 10px 10px 10px !important;
+    transition: background-color .3s ease;
+}
+
+.encabezado:hover {
+    background-color: rgba(0, 0, 0, .4);
+    display: block !important;
+    width: 100%;
+    color: white;
+    font-weight: bold !important;
+}
